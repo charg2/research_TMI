@@ -9,7 +9,7 @@
 2. final을 붙인 객체의 포인터로 가리키고 있어야 한다.
 (부모의 포인터로 가리키고 있으면 가상함수 테이블을 접근한다.)
 
-![final%E1%84%8B%E1%85%B4%20%E1%84%8C%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A2%20edb4ed8f28dd49418c3614078aa7b90f/Untitled.png](final%E1%84%8B%E1%85%B4%20%E1%84%8C%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A2%20edb4ed8f28dd49418c3614078aa7b90f/Untitled.png)
+![final/Untitled.png](final/Untitled.png)
 
 child의 test()는 일반 가상 오버라이딩된 함수.
 가상 함수 테이블을 접근해서 호출한다.
